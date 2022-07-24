@@ -1,0 +1,8 @@
+E:\University\Semester 6\Grad\TUIO11_NET\bin\Debug\TuioDemo.exe
+E:\University\Semester 6\Grad\TUIO11_NET\bin\Debug\TuioDemo.pdb
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\TUIO_DEMO.csprojAssemblyReference.cache
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\TuioDemo.exe
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\TuioDemo.pdb
+E:\University\Semester 6\Grad\TUIO11_NET\obj\Debug\Fruit.resources
